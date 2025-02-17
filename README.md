@@ -1,4 +1,4 @@
-<img src='https://github.com/ArjunMHZ/ArjunMHZ/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png?raw=true' alt='Profile' width="100%" height="800" style="border-radius: 15px;" />
+<img src='https://github.com/ArjunMHZ/ArjunMHZ/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png?raw=true' alt='Profile' width="100%" height="300" style="border-radius: 15px;" />
 <br>
 
 # 💫 About Me:
