@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building an exciting personal project<br>👯 Always open to collaborating on cutting-edge web app development<br>🌱 Diving deep into AWS to expand my cloud skills<br>💬 Let’s talk React.js, Next.js, and Node.js – I’m all ears for any cool challenges<br>⚡ Fun fact: I’m a tech enthusiast with an insatiable curiosity, always chasing the next new technology that sparks my interest!
+🔭 Currently building an exciting personal project<br>👯 Always open to collaborating on cutting-edge web app development<br>🌱 Diving deep into AWS and exploring Web3 to expand my cloud and decentralized tech skills<br>💬 Let’s talk React.js, Next.js, and Node.js – I’m all ears for any cool challenges<br>⚡ Fun fact: I’m a tech enthusiast with an insatiable curiosity, always chasing the next new technology that sparks my interest!
 
 
 ## 🌐 Socials:
