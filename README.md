@@ -1,4 +1,4 @@
-<img src='https://github.com/ArjunMHZ/ArjunMHZ/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png?raw=true' alt='Profile' width="100%" height="250" style="border-radius: 15px;" />
+<img src='https://github.com/ArjunMHZ/ArjunMHZ/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png?raw=true' alt='Profile' width="100%" height="150" style="border-radius: 15px;" />
 
 # 💫 About Me:
 🔭 Currently building an exciting personal project<br>👯 Always open to collaborating on cutting-edge web app development<br>🌱 Diving deep into AWS and exploring Web3 to expand my cloud and decentralized tech skills<br>💬 Let’s talk React.js, Next.js, and Node.js – I’m all ears for any cool challenges<br>⚡ Fun fact: I’m a tech enthusiast with an insatiable curiosity, always chasing the next new technology that sparks my interest!
